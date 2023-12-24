@@ -1,0 +1,8 @@
+Answers
+1.	A Repository  It's a place where you can store your code, your files, and each file's revision history.
+2.	Git clone
+3.	Git push
+4.	Message telling.
+5.	Git commit
+6.	Git add .
+7.	Origin is the conventional shorthand name of the url for the remote repository
